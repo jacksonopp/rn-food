@@ -26,12 +26,13 @@ const styles = StyleSheet.create({
     backgroundColor: '#F0EEEE',
     height: 50,
     borderRadius: 4,
-    marginHorizontal: 15,
+    marginHorizontal: 10,
     flexDirection: 'row',
+    marginBottom: 10
   },
   inputStyle: {
     flex: 1,
-    fontSize: 18
+    fontSize: 18,
   },
   iconStyle: {
     fontSize: 35,
